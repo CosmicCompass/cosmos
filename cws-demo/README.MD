@@ -74,6 +74,14 @@ cocod start  --rpc.laddr tcp://0.0.0.0:26557 --p2p.laddr tcp://0.0.0.0:26558 --a
 ```
 
 - ### Relayer Config
+- Install relayer
+```bash=
+go get -u github.com/iqlusioninc/relayer
+
+git check goz-phase-3
+make install
+```
+
 - Config init
 ```bash=
 rly config init
