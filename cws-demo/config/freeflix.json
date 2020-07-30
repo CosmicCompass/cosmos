@@ -1,0 +1,10 @@
+{
+  "key": "testkey",
+  "chain-id": "freeflix-media-hub",
+  "rpc-addr": "http://localhost:26657",
+  "account-prefix": "freeflix",
+  "gas": 200000,
+  "gas-prices": "0.025ffmt",
+  "default-denom": "ffmt",
+  "trusting-period": "330h"
+}
