@@ -6,7 +6,7 @@ go get -u github.com/CosmicCompass/starport
 ```
 - Install
 ```bash=
-cd $GOPATH/github.com/CosmicCompass/starport
+cd $GOPATH/src/github.com/CosmicCompass/starport
 git checkout cws-demo
 make install
 ```
