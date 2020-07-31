@@ -102,7 +102,7 @@ rly keys restore freeflix-media-hub testkey "<seed>"
 
 rly keys restore coco-post-chain testkey "<seed>"
 ```
-- Init ligt clients
+- Init light clients
 ```bash=
 rly lite init coco-post-chain -f
 rly lite init freeflix-media-hub -f
